@@ -40,8 +40,4 @@ It provides actionable insights into booking patterns, trip distances, payment m
 
 ---
 
-## 🚀 How to Use
-1. Clone this repository:  
-   ```bash
-   git clone https://github.com/your-username/uber-trip-analysis.git
-# uber-project-
+
